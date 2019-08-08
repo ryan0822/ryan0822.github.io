@@ -1,0 +1,36 @@
+{
+code: 200,
+message: "OK",
+data:[
+{
+"id": "clien",
+"name": "클리앙",
+"icon": "https://www.clien.net/service/image/icon180x180.png",
+"author": "ryan",
+"email": "lovejh82@gmail.com",
+"description": "30mm 다이나믹 드라이버를 사용했으며, 양쪽 유닛은 자석으로 결합됩니다. 유닛을 붙인 뒤에는 블루투스 스피커처럼 사용할수도 있습니다. 헤드폰 외부의 터치패드로 곡이나 볼륨을 제어할 수 있으며, 4개의 빔포밍 마이크로 통화하거나 외부 소음을 듣는 블렌드 모드를 사용할 수 있습니다. 재생시간은 9시간.",
+"version": "1",
+"path": "..."
+},
+{
+"id": "clien",
+"name": "클리앙",
+"icon": "https://www.clien.net/service/image/icon180x180.png",
+"author": "ryan",
+"email": "lovejh82@gmail.com",
+"description": "30mm 다이나믹 드라이버를 사용했으며, 양쪽 유닛은 자석으로 결합됩니다. 유닛을 붙인 뒤에는 블루투스 스피커처럼 사용할수도 있습니다. 헤드폰 외부의 터치패드로 곡이나 볼륨을 제어할 수 있으며, 4개의 빔포밍 마이크로 통화하거나 외부 소음을 듣는 블렌드 모드를 사용할 수 있습니다. 재생시간은 9시간.",
+"version": "1",
+"path": "..."
+},
+{
+"id": "clien",
+"name": "클리앙",
+"icon": "https://www.clien.net/service/image/icon180x180.png",
+"author": "ryan",
+"email": "lovejh82@gmail.com",
+"description": "30mm 다이나믹 드라이버를 사용했으며, 양쪽 유닛은 자석으로 결합됩니다. 유닛을 붙인 뒤에는 블루투스 스피커처럼 사용할수도 있습니다. 헤드폰 외부의 터치패드로 곡이나 볼륨을 제어할 수 있으며, 4개의 빔포밍 마이크로 통화하거나 외부 소음을 듣는 블렌드 모드를 사용할 수 있습니다. 재생시간은 9시간.",
+"version": "1",
+"path": "..."
+}
+]
+}
