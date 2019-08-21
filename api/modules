@@ -1,7 +1,7 @@
 {
-code: 200,
-message: "OK",
-data:[
+"code": 200,
+"message": "OK",
+"data":[
 {
 "id": "clien",
 "name": "클리앙",
