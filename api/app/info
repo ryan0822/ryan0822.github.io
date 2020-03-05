@@ -3,6 +3,7 @@
 "message": "OK",
 "data": {
     "forceUpdateVersion": "1.0.0",
+    "forceUpdateDescription": "필수 업데이트가 있습니다. 업데이트하시겠습니까?"
     "version": "1.0.0",
     "focusTab": 1
     }
