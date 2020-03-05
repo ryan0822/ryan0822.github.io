@@ -1,0 +1,9 @@
+{
+"code": 200,
+"message": "OK",
+"data": {
+    "forceVersion": "1.0.0",
+    "version": "1.0.0",
+    "focusTab": 1
+    }
+}
